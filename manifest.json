@@ -1,0 +1,7 @@
+{
+  "android": {
+    "versionCode": 9,
+    "versionName": "0.0.9",
+    "apkUrl": "https://github.com/RscRevived/Client/releases/latest/download/app-debug.apk"
+  }
+}
