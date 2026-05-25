@@ -1,7 +1,7 @@
 {
   "android": {
-    "versionCode": 9,
-    "versionName": "0.0.9",
+    "versionCode": 99,
+    "versionName": "1.0.0-FINAL-TEST",
     "apkUrl": "https://github.com/RscRevived/Client/releases/download/v0.0.9/app-debug.zip"
   }
 }
